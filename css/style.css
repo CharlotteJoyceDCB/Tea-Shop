@@ -1,10 +1,12 @@
-h1, h2, p {
+h1,h2,p{
     text-align: center;
 }
+
 body{
     background-color: rgb(228, 202, 168);
 }
+
 div{
-    width: 300px;
-    background-color: orangered;
+    width: 80%;
+    background-color: rgb(228, 202, 168);
 }
